@@ -1,0 +1,38 @@
+body{
+    background-color:lavenderblush;
+}
+
+h1{
+    color:mediumpurple;
+}
+
+div {
+    background-color:mediumpurple; 
+    border-color:black; 
+    border-radius:5px;
+}
+
+.shadow-text {
+    text-shadow:gray 1px 1px;
+}
+
+h2 {
+    color:mediumpurple;
+}
+
+h3 {
+    color:mediumpurple;
+}
+
+p {
+    color:mediumpurple;
+}
+
+th {
+    color:mediumpurple;
+}
+
+td {
+    color:mediumpurple;
+}
+
